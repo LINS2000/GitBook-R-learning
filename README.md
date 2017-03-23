@@ -22,5 +22,5 @@ R is an official part of the [Free Software Foundation](http://www.fsf.org/)’s
 
 Among the goals of the R Foundation are the support of continued development of R, the exploration of new methodology, teaching and training of statistical computing and the organization of meetings and conferences with a statistical computing orientation. We hope to attract sufficient funding to make these goals realities.
 
-The**R Foundation Statutes**can be downloaded as PDF file in [English](https://www.r-project.org/foundation/Rfoundation-statutes.pdf) or [German](https://www.r-project.org/foundation/Rfoundation-statutes-at.pdf).
+The **R Foundation Statutes**can be downloaded as PDF file in [English](https://www.r-project.org/foundation/Rfoundation-statutes.pdf) or [German](https://www.r-project.org/foundation/Rfoundation-statutes-at.pdf).
 
