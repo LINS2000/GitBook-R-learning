@@ -1,10 +1,18 @@
-# R Script Learning Book {#r-script-learning-book}
+# About R {#r-script-learning-book}
 
-**新版基金會計系統 – 測試**
+![](/assets/R-logo.png)
 
-1.  同樣使用SysLogin登入，請選擇「基金會計測試系統-NET」
-2.  選擇欲進入之測試系統（屆時由開發人員告知）
+#### **The R Project for Statistical Computing**
 
-簡化原本需設定測試系統ODBC的步驟
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To[**download R**](http://cran.r-project.org/mirrors.html), please choose your preferred[CRAN mirror](http://cran.r-project.org/mirrors.html).
 
-1.  進入系統主畫面，後續作業同現行
+If you have questions about R like how to download and install the software, or what the license terms are, please read our[answers to frequently asked questions](http://cran.r-project.org/faqs.html)before you send an email.
+
+> URL: [https://www.r-project.org](https://www.r-project.org)
+
+
+
+
+
+
+
