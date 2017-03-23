@@ -4,5 +4,5 @@
 
 > Download: [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
 
-![](/assets/rstudio.png)
+![](/assets/rstudio2.png)
 
