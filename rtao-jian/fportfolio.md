@@ -5,7 +5,7 @@
 * #### 內建資料集
 
 ```
-data(package="fPortfolio")
+    data(package="fPortfolio")
 ```
 
 * 

@@ -11,4 +11,6 @@
   * [shiny -- Web Application Framework for R](rtao-jian/shiny-web-application-framework-for-r.md)
 * [R繪圖](rhui-tu.md)
   * [直方圖 Histogram ](rhui-tu/zhi-fang-tu-histogram.md)
+* [R技巧](rhui-tu.md)
+	* [Histogram ](rhui-tu/zhi-fang-tu-histogram.md)
 
